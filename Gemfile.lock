@@ -39,7 +39,6 @@ GEM
     json_pure (1.8.1)
     motion-cocoapods (1.5.0)
       cocoapods (>= 0.32.1)
-    motion-firebase (2.1.2)
     multi_json (1.10.1)
     nap (0.8.0)
     netrc (0.7.7)
@@ -54,5 +53,4 @@ PLATFORMS
 
 DEPENDENCIES
   motion-cocoapods
-  motion-firebase
   rake

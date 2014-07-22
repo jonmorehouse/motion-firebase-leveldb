@@ -14,6 +14,8 @@ Motion::Project::App.setup do |app|
   app.libs += ["/usr/lib/libc++.dylib"]
 
   app.pods do
+    pod 'pop'
     pod 'Objective-LevelDB'
+    pod 'Firebase'
   end
 end
